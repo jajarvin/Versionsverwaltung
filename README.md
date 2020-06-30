@@ -1,2 +1,2 @@
 # Versionsverwaltung
-<h1>Maine Versionsverwaltung
+<h1>Meine Versionsverwaltung
